@@ -9,4 +9,6 @@ They do nothing but join the cluster and leave it when terminating as intented.
 
 Currently using Akka.Cluster 1.1.0.
 
+The samples use log4net and Wire serialization.
+
 Solution file is currently inside of ClusterNode1... could be cleaned up.
